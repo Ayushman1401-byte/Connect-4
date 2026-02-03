@@ -1,2 +1,4 @@
 # Connect-4
-Interesting game
+Interesting game 
+<br>
+Author : Aman kumar shaw
